@@ -39,29 +39,36 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)  
+  - [🛠 Built With](#built-with)
+  - [Key Features](#key-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Hello World project <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **is a simple project for practicing features and configurations of GitHub**.
 
 ## 🛠 Built With <a name="built-with"></a>
-  - Major languages HTML , CSS
-  - Frameworks none
-  - Technologies used linters  Github , Visual Code
+  - **Major languages HTML , CSS**
+  - **Frameworks none**
+  - **Technologies used linters  Github , Visual Code**
+
+### Key Features <a name="key-features"></a>
+
+- **Simple text to help us understand how it works on GitHub**
+- **Simple font design changes: color**
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -124,6 +131,9 @@ Just a simple html and css made for testing github functionalities.
 - Twitter: [https://twitter.com/ELZambrano2]
 - LinkedIn: [www.linkedin.com/in/carlos-zambrano-845406173]
 
+## 🔭 Future Features <a name="future-features"></a>
+- Minor text fix
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -145,6 +155,10 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+- I would like to thank a https://www.microverse.org/
 
 <!-- LICENSE -->
 
