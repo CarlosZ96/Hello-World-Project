@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Hello World</b></h3>
 
 </div>
 
@@ -124,7 +124,7 @@ Give a ⭐️ if you like this project!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- **I would like to thank**https://www.microverse.org/
+- **I would like to thank** https://www.microverse.org/
 
 <!-- LICENSE -->
 
